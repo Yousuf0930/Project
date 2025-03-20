@@ -30,5 +30,5 @@ This project involves analyzing sales data using **Power BI** to generate insigh
 - Additional KPI tracking for deeper insights.
 
 ## Author
-[Yousuf Raja] – Data Analyst
+Yousuf Raja – Data Analyst
 
